@@ -23,7 +23,7 @@ namespace EatMyMovies.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult TheSeriousList()
         {
             return View();
         }
